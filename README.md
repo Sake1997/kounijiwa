@@ -1,0 +1,2 @@
+# kounijiwa
+my first repository
